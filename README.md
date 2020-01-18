@@ -60,7 +60,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(40).pdf" style="text-decoration:none;">Claude Elwood Shannon: Collected Papers</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(41).pdf" style="text-decoration:none;">Collected Papers of Herbert Marcuse</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(42).pdf" style="text-decoration:none;">Collected Poems - David Markson</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(43).pdf" style="text-decoration:none;">Milton Friedman on Economics: Selected Papers</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(44).pdf" style="text-decoration:none;">A Collection of Papers in Honour of Robert Burns Woodward (1917 - 1979)</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(45).pdf" style="text-decoration:none;">The Collected Papers of Gerhard Gentzen </a></b></li>
