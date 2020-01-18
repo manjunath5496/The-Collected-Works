@@ -46,6 +46,40 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(31).pdf" style="text-decoration:none;">Masters of Art  </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(32).pdf" style="text-decoration:none;">Embodied Wisdom: The Collected Papers of Moshe Feldenkrais</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(33).pdf" style="text-decoration:none;">The Collected Papers of Bertrand Russell</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(34).pdf" style="text-decoration:none;">The Collected Papers of Milton H. Erickson</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(35).pdf" style="text-decoration:none;">Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(36).pdf" style="text-decoration:none;">The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(37).pdf" style="text-decoration:none;">Collected Papers on Monetary Theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(38).pdf" style="text-decoration:none;">Collected Papers of Bernhard Riemann </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(39).pdf" style="text-decoration:none;">Collected Papers On Wave Mechanics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(40).pdf" style="text-decoration:none;">Claude Elwood Shannon: Collected Papers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(41).pdf" style="text-decoration:none;">Collected Papers of Herbert Marcuse</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(43).pdf" style="text-decoration:none;">Milton Friedman on Economics: Selected Papers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(44).pdf" style="text-decoration:none;">A Collection of Papers in Honour of Robert Burns Woodward (1917 - 1979)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(45).pdf" style="text-decoration:none;">The Collected Papers of Gerhard Gentzen </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(46).pdf" style="text-decoration:none;">The Collected Papers of Roger Money-Kyrle</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(47).rar" style="text-decoration:none;">The Collected Papers of Stephen Smale</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(48).pdf" style="text-decoration:none;">Aristotle, the Collected Papers of Joseph Owens</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(49).pdf" style="text-decoration:none;">Buddhism in China: Collected Papers of Erik Zürcher</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(50).pdf" style="text-decoration:none;">The Collected Papers of Charles Sanders Peirce</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(51).pdf" style="text-decoration:none;">Collected Papers of Michael E. Soule</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(52).pdf" style="text-decoration:none;">Hassler Whitney Collected Papers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(53).pdf" style="text-decoration:none;">Sincerity and Other Works: Collected Papers of Donald Meltzer </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(54).pdf" style="text-decoration:none;">Collected Papers of P. L. Kapitza</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(55).pdf" style="text-decoration:none;">Collected Papers of Srinivasa Ramanujan </a></b></li>
+
+
 
 
 
