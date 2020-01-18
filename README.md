@@ -36,9 +36,14 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(24).pdf" style="text-decoration:none;">The Collected Works of W.B. Yeats</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(25).pdf" style="text-decoration:none;">The Complete Works of Herman Melville </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(26).pdf" style="text-decoration:none;">Applications of Flow in Human Development and Education: The Collected Works of Mihaly Csikszentmihalyi</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(27).pdf" style="text-decoration:none;">Collected Works of Poe</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(28).pdf" style="text-decoration:none;">Collected Works of Hugh Nibley</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(29).pdf" style="text-decoration:none;">The Collected Works of Ludwig Wittgenstein</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(30).pdf" style="text-decoration:none;">Collected Works of Bernard Lonergan </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(31).pdf" style="text-decoration:none;">Masters of Art  </a></b></li>
 
 
 
