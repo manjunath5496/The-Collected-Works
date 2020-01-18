@@ -79,7 +79,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(54).pdf" style="text-decoration:none;">Collected Papers of P. L. Kapitza</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(55).pdf" style="text-decoration:none;">Collected Papers of Srinivasa Ramanujan </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(56).pdf" style="text-decoration:none;">Eight Lectures on Theoretical Physics - Max Planck </a></b></li>
 
 
 
