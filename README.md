@@ -81,6 +81,30 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(56).pdf" style="text-decoration:none;">Eight Lectures on Theoretical Physics - Max Planck </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(57).pdf" style="text-decoration:none;">The Collected Works of Sir Humphry Davy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(58).pdf" style="text-decoration:none;">100 Years Werner Heisenberg: Works and Impact</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(59).pdf" style="text-decoration:none;">The Complete Works of Lewis Carroll </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(60).pdf" style="text-decoration:none;">Ettore Majorana Scientific Papers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(61).pdf" style="text-decoration:none;">A Collection of Short Mystery Stories </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(62).rar" style="text-decoration:none;">Selected Scientific Papers of Alfred Lande</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(63).pdf" style="text-decoration:none;">Selected Scientific Papers of E.D. Condon</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(64).pdf" style="text-decoration:none;">J. Stalin - Works </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(65).pdf" style="text-decoration:none;">The Collected Works of F. A. Hayek</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(66).pdf" style="text-decoration:none;">The Scientific Papers of Sir George Darwin, Vol.2  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(67).pdf" style="text-decoration:none;">The Scientific Papers of Sir George Darwin, Vol.4 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(68).pdf" style="text-decoration:none;">S N Bose : The Man and His Work, Part 1 : Collected Scientific Papers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Collected-Works/blob/master/cwl(69).pdf" style="text-decoration:none;">Problems of empiricism: Philosophical papers </a></b></li>
+
+
+
+
+
+
+
+
 
 
 
